@@ -1,0 +1,180 @@
+.wrapper {
+  text-align: center;
+}
+
+.forums{
+  position: absolute;
+  display: block;
+  height: 30vw;
+  width: 30vw;
+  border-radius: 50vw;
+  top: -14vw;
+  left: -11vw;
+  line-height: 30vw;
+  animation: slideDown11 2.8s
+}
+@keyframes slideDown11 {
+  from { top: -100vw}
+  to   { top: -14vw }
+}
+
+.type1 {
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 40vw;
+  top: 10vw;
+  left: 0vw;
+  line-height: 20vw;
+  animation: slideDown 1s
+}
+@keyframes slideDown {
+  from { top: -100vw}
+  to   { top: 10vw }
+}
+
+.type2 {
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 30vw;
+  top: 1vw;
+  left: 15vw;
+  line-height: 20vw;
+  animation: slideDown2 2s
+}
+@keyframes slideDown2 {
+  from { top: -100vw}
+  to   { top: 1vw }
+}
+
+.type3{
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 35vw;
+  top: 14vw;
+  left: 27vw;
+  animation: slideDown3 2.1s;
+  line-height: 20vw;
+}
+@keyframes slideDown3 {
+  from { top: -100vw}
+  to   { top: 14vw }
+}
+
+.type4{
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 340vw;
+  top: -1vw;
+  left: 37vw;
+  line-height: 20vw;
+  animation: slideDown4 2.0s
+}
+@keyframes slideDown4 {
+  from { top: -100vw}
+  to   { top: -1vw }
+}
+
+.type5{
+  z-index: 100;
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 30vw;
+  top: 30vw;
+  left: 32vw;
+  line-height: 20vw;
+  animation: slideDown5 2.5s
+}
+@keyframes slideDown5 {
+  from { top: -100vw}
+  to   { top: 30vw }
+}
+
+.type6{
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 20vw;
+  top: 22vw;
+  left: 52vw;
+  line-height: 20vw;
+  animation: slideDown6 2.3s
+}
+@keyframes slideDown6 {
+  from { top: -100vw}
+  to   { top: 22vw }
+}
+
+.type7{
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 20vw;
+  top: 4vw;
+  left: 60vw;
+  line-height: 20vw;
+  animation: slideDown7 2.2s
+}
+@keyframes slideDown7 {
+  from { top: -100vw}
+  to   { top: 4vw }
+}
+
+.type8{
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 20vw;
+  top: 25vw;
+  left: 79vw;
+  line-height: 20vw;
+  animation: slideDown8 2.2s
+}
+@keyframes slideDown8 {
+  from { top: -100vw}
+  to   { top: 25vw }
+}
+
+.type9{
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 20vw;
+  top: 1vw;
+  left: 80vw;
+  line-height: 20vw;
+  animation: slideDown9 2.8s
+}
+@keyframes slideDown9 {
+  from { top: -100vw}
+  to   { top: 1vw }
+}
+
+.home{
+  position: absolute;
+  display: block;
+  height: 50vw;
+  width: 50vw;
+  border-radius: 50vw;
+  top: 30vw;
+  left: -15vw;
+  line-height: 30vw;
+  animation: slideDown10 2.8s
+}
+@keyframes slideDown10 {
+  from { top: -100vw}
+  to   { top: 30vw }
+}

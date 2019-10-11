@@ -1,0 +1,100 @@
+.wrapper {
+  text-align: center;
+}
+
+.forum {
+  position: absolute;
+  display: block;
+  height: 30vw;
+  width: 30vw;
+  border-radius: 30vw;
+  top: 10vw;
+  left: -5vw;
+  line-height: 30vw;
+  animation: slideUp 3s
+}
+@keyframes slideUp {
+  from { top: 100vw}
+  to   { top: 10vw }
+}
+
+.types {
+  position: absolute;
+  display: block;
+  height: 20vw;
+  width: 20vw;
+  border-radius: 30vw;
+  top: 1vw;
+  left: 20vw;
+  line-height: 20vw;
+  animation: slideUp2 2s
+}
+@keyframes slideUp2 {
+  from { top: 100vw}
+  to   { top: 1vw }
+}
+
+.readingList{
+  position: absolute;
+  display: block;
+  height: 35vw;
+  width: 35vw;
+  border-radius: 35vw;
+  top: 21vw;
+  left: 20vw;
+  animation: slideUp3 2.5s;
+  line-height: 35vw;
+}
+@keyframes slideUp3 {
+  from { top: 100vw}
+  to   { top: 21vw }
+}
+
+.empty1{
+  position: absolute;
+  display: block;
+  height: 37vw;
+  width: 37vw;
+  border-radius: 340vw;
+  top: -10vw;
+  left: 70vw;
+  line-height: 37vw;
+  animation: slideUp4 2.7s
+}
+@keyframes slideUp4 {
+  from { top: 100vw}
+  to   { top: -10vw }
+}
+
+.empty2{
+  z-index: 100;
+  position: absolute;
+  display: block;
+  height: 27vw;
+  width: 27vw;
+  border-radius: 30vw;
+  top: 1vw;
+  left: 43vw;
+  line-height: 27vw;
+  animation: slideUp5 2.5s
+}
+@keyframes slideUp5 {
+  from { top: 100vw}
+  to   { top: 1vw }
+}
+
+.empty3{
+  position: absolute;
+  display: block;
+  height: 30vw;
+  width: 30vw;
+  border-radius: 30vw;
+  top: 20vw;
+  left: 60vw;
+  line-height: 30vw;
+  animation: slideUp6 3s
+}
+@keyframes slideUp6 {
+  from { top: 100vw}
+  to   { top: 20vw }
+}

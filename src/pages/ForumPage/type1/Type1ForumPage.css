@@ -1,0 +1,42 @@
+.topic {
+  position: absolute;
+  text-align: center;
+  height: 10vw;
+  width: 10vw;
+  border-radius: 10vw;
+  line-height: 10vw;
+}
+
+.one {
+  top: 1.1vw;
+  left: 10vw;
+}
+.two {
+  top: 2vw;
+  left: 26vw;
+}
+.three {
+  top: 1.2vw;
+  left: 43vw;
+}
+.four {
+  top: 1.6vw;
+  left: 58vw;
+}
+
+.home1 {
+  top: 1vw;
+  left: 71vw;
+}
+
+.forum1 {
+  top: 1.5vw;
+  left: 85vw;
+}
+
+.threadGroup {
+  position: absolute;
+  top: 13vw;
+  width:100vw;  
+}
+
